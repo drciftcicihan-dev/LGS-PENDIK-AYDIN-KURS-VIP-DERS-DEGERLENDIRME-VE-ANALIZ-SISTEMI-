@@ -145,11 +145,11 @@ def init_db() -> None:
                 {
                     "id": 1,
                     "firstName": "CİHAN",
-                    "lastName": "YILMAZ",
+                    "lastName": "HOCA",
                     "role": "admin",
                     "grade": "-",
                     "section": "-",
-                    "pass": "admin123",
+                    "pass": "147741",
                     "institution": "-",
                 },
                 {
